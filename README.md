@@ -6,13 +6,9 @@ Modern template for **Django Admin Interface** coded on top of **Corporate UI Da
 
 <br />
 
-> KIT: https://github.com/creativetimofficial/corporate-ui-dashboard
-
-<br />
-
 ## Features: 
 
-- [Django Corporate Dashboard](#) - `Product` that uses the library
+- [Django Corporate Dashboard](https://github.com/app-generator/django-corporate-dashboard) - `Product` that uses the library
   - `Features`: Fully-configured, `CI/CD` via Render
 - **UI Kit**: [Corporate Dashboard BS5](https://www.creative-tim.com/product/corporate-ui-dashboard?AFFILIATE=128200) by `Creative-Tim`
 - **Sections Covered**: 
@@ -27,7 +23,7 @@ Modern template for **Django Admin Interface** coded on top of **Corporate UI Da
 
 <br>
 
-## Why `Django Admin Soft`
+## Why `Django Admin Corporate`
 
 - Modern [Bootstrap 5](https://www.admin-dashboards.com/bootstrap-5-templates/) Design
 - `Responsive Interface`
@@ -55,7 +51,7 @@ $ pip install git+https://github.com/app-generator/django-admin-corporate.git
 ```python
     INSTALLED_APPS = (
         ...
-        'admin_corporate.apps.AdminCorporateDashboardConfig',
+        'admin_corporate.apps.AdminCorporateConfig',
         'django.contrib.admin',
     )
 ```
