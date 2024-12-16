@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [1.0.4] 2024-12-16
+### Changes
+
+- Mention [Django App Generator - Corporate Design](https://app-generator.dev/tools/django-generator/corporate/)
+
 ## [1.0.3] 2024-09-17
 ### Changes
 
